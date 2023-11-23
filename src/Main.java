@@ -31,7 +31,6 @@ public class Main {
             } else {
                 suma += edad;
             }
-
         }
 
         return suma / numPersonasOk;
